@@ -3,3 +3,4 @@ Omar              78
 Paula             67
 Ali               88
 Joe               43
+Fatu              78
