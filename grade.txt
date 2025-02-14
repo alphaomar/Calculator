@@ -1,3 +1,5 @@
 Name            Grade
 Omar              78
-aula               67
+Paula             67
+Ali               88
+Joe               43
